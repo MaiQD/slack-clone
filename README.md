@@ -1,1 +1,4 @@
-# slack-clone
+# Technology
+- ReactJS
+- NodeJS
+- 
