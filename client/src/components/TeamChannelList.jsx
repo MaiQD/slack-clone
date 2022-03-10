@@ -28,6 +28,7 @@ const TeamChannelList = ({children, error = false, loading, type}) =>{
                 </p>
                 
             </div>
+            {console.log(children)}
             {children}
         </div>
     )
